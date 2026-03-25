@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lei Li (LeiLi0121)!
 
-** AI Engineer | Software Engineer **  
+**AI Engineer | Software Engineer**  
 _MSc AI Student @ CUHK (2025-2027)_
 
 ---
