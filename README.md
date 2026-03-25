@@ -11,8 +11,8 @@ _MSc AI Student @ CUHK (2025-2027)_
   - First Class Honours | GPA: 3.9/4.0
 
 💻 **Experience & Interests**  
+- AI Engineering: AI-Agent & RAG tool development
 - Go Backend Development (Production Experience)
-- AI Engineering: AI-Agent & RAG tool development for efficiency boosts
 - Passionate about building LLM apps and exploring the next generation of AI products
 
 🛠 **Skills & Tech Stack**  
@@ -20,6 +20,7 @@ _MSc AI Student @ CUHK (2025-2027)_
 - Domains: **Machine Learning**, **Large Language Models (LLM)**
 - Web Development
 - LLM Application Development
+- LLM training(pretrain, sft, rl)
 
 ---
 
