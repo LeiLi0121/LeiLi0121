@@ -8,7 +8,6 @@ _MSc AI Student @ CUHK (2025-2027)_
 🎓 **Education**  
 - MSc Artificial Intelligence, The Chinese University of Hong Kong (2025-2027)  
 - BEng Computer Science and Electronics, University of Bristol  
-  - First Class Honours | GPA: 3.9/4.0
 
 💻 **Experience & Interests**  
 - AI Engineering: AI-Agent & RAG tool development
@@ -21,11 +20,6 @@ _MSc AI Student @ CUHK (2025-2027)_
 - Web Development
 - LLM Application Development
 - LLM training(pretrain, sft, rl)
-
----
-
-🤖 **About Me**  
-I'm a recent graduate from the University of Bristol with a strong academic record and practical experience in backend and AI engineering. I am fascinated by the potential of AI and LLMs to transform the world, and I'm currently focused on developing innovative LLM-powered applications.
 
 ---
 
