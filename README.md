@@ -14,13 +14,6 @@ _MSc AI Student @ CUHK (2025-2027)_
 - Go Backend Development (Production Experience)
 - Passionate about building LLM apps and exploring the next generation of AI products
 
-🛠 **Skills & Tech Stack**  
-- Languages: **Go**, **Python**
-- Domains: **Machine Learning**, **Large Language Models (LLM)**
-- Web Development
-- LLM Application Development
-- LLM training(pretrain, sft, rl)
-
 ---
 
 ⚽ 🎵 🎮 **Outside of Tech**  
