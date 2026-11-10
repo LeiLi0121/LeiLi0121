@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Lei Li (LeiLi0121)!
 
+ 📧 **Email**: 1155245848@link.cuhk.edu.hk
+
 **AI Engineer | Software Engineer**  
 _MSc AI Student @ CUHK (2025-2027)_
 
